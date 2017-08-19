@@ -4,15 +4,12 @@
 @charset 'utf-8';
 
 @import 'variables';
+@import 'mixins';
 @import 'extends/buttons';
 
 @import 'typography';
 
 html {
-  font-family: $sans;
-  font-size: 18px;
-  line-height: 1.5;
-
   box-sizing: border-box;
 
   *,

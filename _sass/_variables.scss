@@ -1,5 +1,14 @@
-$sans: 'Fira Sans', 'Open Sans', 'Roboto', 'Helvetica', sans-serif;
-$display: 'Roboto Slab', $sans;
+$sans: 'Roboto', 'Helvetica', 'Open Sans', sans-serif;
+$display: $sans;
+
 $blue: #3689e6;
 $purple: #7a36b1;
 $white: #fff;
+
+// Layout range variables
+$small:   (0px,                  600px);
+$smablet: (nth($small, 2) + 1,   768px);
+$medium:  (nth($smablet, 2) + 1, 1024px);
+$large:   (nth($medium, 2) + 1,  1440px);
+$xlarge:  (nth($large, 2) + 1,   1920px);
+$xxlarge: (nth($xlarge, 2) + 1,  2560px);
