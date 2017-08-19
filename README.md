@@ -1,5 +1,10 @@
 ![Open OS](images/logo-slab.png)
 
+![Galago Pro](https://system76.com/assets/products/galp2/front_1280.jpg)
+
+- [Shop Computers](s76)
+- [Download](dl)
+
 # Open the Potential of Your Computer
 
 We believe in using powerful technology to enable others to learn, make, and
@@ -25,7 +30,8 @@ Open OS is available out of the box on every new [System76 computer][s76], or as
 a free download for your current computer.
 
 - [Shop Computers](s76)
-- [Download](#)
+- [Download](dl)
 
 [OSI]: https://opensource.org/definition
 [s76]: https://system76.com
+[dl]: #
