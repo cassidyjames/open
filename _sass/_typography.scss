@@ -29,13 +29,22 @@ h6 {
   margin-top: 2em;
 
   font-family: $sans;
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 700;
   line-height: 1;
+
+
+  @include media($medium) {
+    font-size: 4em;
+  }
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 2.5em;
+
+  @include media($medium) {
+    font-size: 3em;
+  }
 }
 
 h3 {
