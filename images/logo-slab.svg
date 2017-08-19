@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo-slab.svg"
+   inkscape:export-filename="/home/cassidyjames/Projects/cassidyjames/open/logo-slab.png"
+   inkscape:export-xdpi="316.57001"
+   inkscape:export-ydpi="316.57001">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4510">
+      <stop
+         style="stop-color:#3689e6;stop-opacity:1"
+         offset="0"
+         id="stop4506" />
+      <stop
+         style="stop-color:#7a36b1;stop-opacity:1"
+         offset="1"
+         id="stop4508" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4510"
+       id="linearGradient4512"
+       x1="2.46086"
+       y1="288.16568"
+       x2="26.887964"
+       y2="276.14377"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4510"
+       id="linearGradient4561"
+       x1="30.928713"
+       y1="303.21573"
+       x2="132.16191"
+       y2="271.91193"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2797941,0,0,1.2797941,0.93189923,-83.823721)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0606602"
+     inkscape:cx="267.55379"
+     inkscape:cy="11.642837"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <circle
+       id="path3699"
+       cx="16.933332"
+       cy="280.06665"
+       style="stroke-width:0.31070334;fill:url(#linearGradient4512);fill-opacity:1"
+       r="16.933332" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.17496467;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4514"
+       cx="16.933332"
+       cy="280.06665"
+       r="11.112517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:55.38014984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4561);fill-opacity:1;stroke:none;stroke-width:1.38450372"
+       x="1.7708282"
+       y="294.24924"
+       id="text4537"><tspan
+         sodipodi:role="line"
+         id="tspan4535"
+         x="1.7708282"
+         y="294.24924"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:url(#linearGradient4561);fill-opacity:1;stroke-width:1.38450372"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:none"
+   id="tspan4565">o</tspan>pen os</tspan></text>
+  </g>
+</svg>
