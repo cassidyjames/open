@@ -2,8 +2,8 @@
 
 ![Galago Pro](https://system76.com/assets/products/galp2/front_1280.jpg)
 
-- [Shop Computers](oem)
-- [Download](dl)
+- [Shop Computers][oem]
+- [Download][dl]
 
 # Open up the potential of your computer.
 
@@ -30,7 +30,7 @@ Initiative][OSI]. In a nutshell, we believe software should be freely sharable, 
 
 ![Octocat](https://developer.elementary.io/images/octocat.png)
 
-All of Open OS is available on [GitHub](gh), home to the world’s largest
+All of Open OS is available on [GitHub][gh], home to the world’s largest
 community of developers and their projects. Clone it, fork it, redistribute it. (Technologic.) It’s all cool.
 
 # Get Open OS
@@ -38,8 +38,8 @@ community of developers and their projects. Clone it, fork it, redistribute it. 
 Open OS is available out of the box on every new [Example OEM computer][oem], or as
 a free download for your current computer.
 
-- [Shop Computers](oem)
-- [Download](dl)
+- [Shop Computers][oem]
+- [Download][dl]
 
 [OSI]: https://opensource.org/definition
 [oem]: https://example.com
